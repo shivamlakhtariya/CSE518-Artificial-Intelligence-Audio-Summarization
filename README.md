@@ -8,7 +8,6 @@
 - ALgorithm
 - Introduction
 - Approach
-- Approach
 - Results
 - Guidelines 
 - Contributors

@@ -22,11 +22,9 @@
 
 
 ## Introduction
-Recommendation systems enable users to access products that they may not be aware of. The two traditional recommendation techniques are content-based and collaborative filtering. While both methods have their own advantages, they also have certain disadvantages, some of which can be solved by combining both techniques to improve the quality of the recommendation. Broadly speaking, a recommendation system provides specific suggestions about items (products or actions) within a given domain, which may  interest the given active user.
+One of the primary applications of natural language processing is to automatically extract what topics people are discussing from large volumes of text. Some examples of large text could be feeds from Books, Youtube videos, movies, etc, user feedbacks, news stories, e-mails of customer complaints etc
 
-Product recommendation is generally a filtering system which seeks to predict, display and suggest the product to users that they would like to purchase. This type of system is utilized in a variety of fields such as news, research articles and many more.
-
-Here we have designed a product recommendation system which can provide appropriate suggestions to the customers while buying another products. We are designing the system such that it suggests the item based on the ratings of all the other items and also according to their purchase history.It helps the users to make a right choice and also it makes the content more personalised.
+Knowing what people are talking about and understanding their problems and opinions is highly valuable to businesses, administrators, political campaigns. And it’s really hard to manually read through such large volumes and compile the topics
 
 
 ## Functionality

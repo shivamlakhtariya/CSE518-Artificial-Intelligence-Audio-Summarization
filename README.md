@@ -61,7 +61,7 @@ Here we have designed a product recommendation system which can provide appropri
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/frequency%20based%20summarizer%20output.JPG" width="650" height="400">
 
 # Gensim based summarizer output for total length = 0.3 of total speech and vodeo is "https://www.youtube.com/watch?v=jtpOYxsZj7o"
-<img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Gensim%20based%20algorithm%20output.JPG" width="800" height="550">
+<img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Gensim%20based%20algorithm%20output.JPG" width="900" height="550">
 
 
 

@@ -64,10 +64,13 @@ Here we have designed a product recommendation system which can provide appropri
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Gensim%20based%20algorithm%20output.JPG" width="900" height="550">
 
 
+# pyLDAvis
+<img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/pyLDAvis.png" width="900" height="550">
+
 
 ## Contributors
 
 | [Dhruvanshu Parmar](https://github.com/Nisargpatel16)                                                                                                            
 | [Shivam Lakhtariya](https://github.com/shivamlakhtariya)     
-| [Aditya Raj](https://github.com/Vismay1710)
+| [Aditya Raj](https://github.com/raj49274)
 

@@ -7,9 +7,10 @@
 
 - ALgorithm
 - Introduction
-- Functionality
+- Approach
 - Approach
 - Results
+- Guidelines 
 - Contributors
 
 
@@ -27,12 +28,7 @@ One of the primary applications of natural language processing is to automatical
 Knowing what people are talking about and understanding their problems and opinions is highly valuable to businesses, administrators, political campaigns. And it’s really hard to manually read through such large volumes and compile the topics
 
 
-## Functionality
-
-- We are recommending the products based on the ratings of the products given by the other customers or users in past using cosine similarity as well as jaccard similarity.
-- When a new user comes to buy a product and enters a keyword to search, we are recommending the products using k-mean text clustering based on the keyword .
-- We are performing clustering based on the product ID and ratings given to that particular product.
-- We have performed k-means clustering from scratch without the use of inbuilt functions.
+## Approach
 
 
 ## Libraries
@@ -65,6 +61,8 @@ Knowing what people are talking about and understanding their problems and opini
 # pyLDAvis
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/pyLDAvis.png" width="900" height="550">
 
+## Guidelines
+- 
 
 ## Contributors
 

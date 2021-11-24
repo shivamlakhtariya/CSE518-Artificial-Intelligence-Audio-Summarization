@@ -44,7 +44,7 @@ Knowing what people are talking about and understanding their problems and opini
 
 ## Results
 
-# GSM based algorithm's efficiency w.r.t. time for book "Honest Abe"
+# GSM based algorithm's efficiency w.r.t. time for the book "Honest Abe"
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/GSM%20Efficiency.JPG" width="800" height="500">
 
 # Choosing a number of topic for LDA algorithm w.r.t. coherence score

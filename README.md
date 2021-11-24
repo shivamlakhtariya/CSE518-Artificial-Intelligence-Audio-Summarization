@@ -62,9 +62,11 @@ Knowing what people are talking about and understanding their problems and opini
 # pyLDAvis
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/pyLDAvis.png" width="900" height="550">
 
-
 # pyLDAvis for topic 1
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/pyLDAvis%20Output.JPG" width="900" height="550">
+
+# Defination of Relevance
+<img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Relevance.JPG" width="900" height="550">
 
 ## Guidelines
 - 

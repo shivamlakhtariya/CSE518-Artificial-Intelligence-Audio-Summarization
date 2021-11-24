@@ -90,8 +90,6 @@ To examine the produced topics and the associated keywords. pyLDAvis the most us
 # Defination of Relevance
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Relevance.JPG" width="900" height="550">
 
-## Guidelines
-- 
 
 ## Contributors
 

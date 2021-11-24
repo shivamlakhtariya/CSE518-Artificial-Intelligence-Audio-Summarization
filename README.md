@@ -56,6 +56,8 @@ Knowing what people are talking about and understanding their problems and opini
 # Gensim based summarizer output for total length = 0.3 of total speech and vodeo is "https://www.youtube.com/watch?v=jtpOYxsZj7o"
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Gensim%20based%20algorithm%20output.JPG" width="900" height="550">
 
+# LDA formula
+<img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/LDA%20formula.JPG" width="700" height="500">
 
 # pyLDAvis
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/pyLDAvis.png" width="900" height="550">

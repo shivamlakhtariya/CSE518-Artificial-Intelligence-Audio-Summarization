@@ -65,7 +65,7 @@ Knowing what people are talking about and understanding their problems and opini
 
 ## Contributors
 
-| [Dhruvanshu Parmar](https://github.com/Nisargpatel16)                                                                                                            
+| [Dhruvanshu Parmar]                                                                                                            
 | [Shivam Lakhtariya](https://github.com/shivamlakhtariya)     
 | [Aditya Raj](https://github.com/raj49274)
 

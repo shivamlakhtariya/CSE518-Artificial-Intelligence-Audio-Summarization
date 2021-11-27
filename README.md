@@ -45,7 +45,7 @@ TFIDF(w) = TF(w) * IDF(w)
 # Gensim based Summarizer 
 The gensim implementation is based on the “TextRank” algorithm. Gensim can process arbitrarily large corpora, using data-stream algorithms. Trained large scale semantic NLP model.The basic idea implemented by a graph-based ranking model is that of voting or recommendation. When one vertex links to another one, it is basically casting a vote for that vertex. The higher the number of votes cast for a vertex, the higher the importance of that vertex.
 
-# LDA Summarizer 
+# LDA based Summarizer 
 - LDA’s approach to topic modeling is it considers each document as a collection of topics in a certain proportion. And each topic as a collection of keywords, again, in a certain proportion.
 - Once we provide the algorithm with the number of topics, all it does it to rearrange the topics distribution within the documents and keywords distribution within the topics to obtain a good composition of topic-keywords distribution.
 - A topic is nothing but a collection of dominant keywords that are typical representatives. 

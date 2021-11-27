@@ -29,6 +29,23 @@ Knowing what people are talking about and understanding their problems and opini
 
 ## Approach
 
+# Frequency based Summarizer 
+Convert to pipeline->Break to sentences->Tokenizing and filtering keywords->Converting to df for calculating weighted frequency ->Weight each sentence based on their wfreq
+
+# Tf-idf based summarizer
+Input document -> Finding most important words from the document -> Finding sentence scores on the basis of important words ->Choosing the most important sentences on the basis of scores obtained. If a word appears frequently in a document, then it should be important and we should give that word a high score. But if a word appears in too many other documents, it’s probably not a unique identifier, therefore we should assign a lower score to that word.
+
+    TF(w) = (Number of times term w appears in a document) / (Total number of terms in the document)
+    IDF(w) = log_e(Total number of documents / Number of documents with term w in it)
+
+Hence tfidf for a word can be calculated as:
+
+TFIDF(w) = TF(w) * IDF(w)
+
+# Gensim based Summarizer 
+The gensim implementation is based on the “TextRank” algorithm. Gensim can process arbitrarily large corpora, using data-stream algorithms. Trained large scale semantic NLP model.The basic idea implemented by a graph-based ranking model is that of voting or recommendation. When one vertex links to another one, it is basically casting a vote for that vertex. The higher the number of votes cast for a vertex, the higher the importance of that vertex.
+
+# LDA Summarizer 
 - LDA’s approach to topic modeling is it considers each document as a collection of topics in a certain proportion. And each topic as a collection of keywords, again, in a certain proportion.
 - Once we provide the algorithm with the number of topics, all it does it to rearrange the topics distribution within the documents and keywords distribution within the topics to obtain a good composition of topic-keywords distribution.
 - A topic is nothing but a collection of dominant keywords that are typical representatives. 

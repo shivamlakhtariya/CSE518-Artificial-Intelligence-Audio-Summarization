@@ -87,6 +87,9 @@ To examine the produced topics and the associated keywords. pyLDAvis the most us
 # pyLDAvis for topic 1
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/pyLDAvis%20Output.JPG" width="900" height="550">
 
+# Google API result
+<img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Google%20API.jpeg" width="800" height="500">
+
 # Defination of Relevance
 <img src="https://github.com/shivamlakhtariya/CSE518-Artificial-Intelligence-Audio-Summarization/blob/main/Results/Relevance.JPG" width="900" height="550">
 

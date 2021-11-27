@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "restaurant-menu-app-197310",
+  "private_key_id": "39b33fa93edfe4feedf522d213b554a9b1d012b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCPdl8LxiUnJjRa\nA5BgO6on6ntpxp/ZeGX4byV8IpqiZBDar2fDXhUjjzrJq+VPfY9a6MxnMU7JHvBN\nJTMAe9Z6odtdkiJFy625QGa62r0YxKlo9mWa5oerxqi7tEHshQcF5RTEr42/f5yn\nbi7ClpS6OikDT5DKOQDuSzDZYI4mTuGttAbG6aAmRFrhKxBVDIjl0dtNOoj3qGBU\nfLVTjZr/1dQHsJHOmP5WlVjrgi2cAgh7blhv9fZnDUtFKjdoFn/nAs6ZxTSt0gJS\nJ/5qQpr/djxq6ZwnKOnx3rXOPZANyxJpuzcsf54pPqu67oxvNtaI/64oHOQYqNlJ\nIhNVbkYdAgMBAAECgf8tZEaucwNOX8gwsu/7guVTu91Qmof5Rx78fC5gGJLUztSG\nXPl310zY83imVr03aYLyQLZr8C39dMyTnDGG9afnJU9DS/mMG+Xbt4TJmmw6af8w\nNsXvPQGwWCsLOP2i2HRgaRspIGK5NKdcUoB5ESv9wGk5ovMtCNxCiYfrP6G6fMGJ\nNdJiNPmc1VQZBgYHNmBeDPW00YbKbvr6Xf6DHaS7bSVeEojPJ7Tb719xBIwGI2ev\n3QUTQ8LIQsMvxrAGfqMTRYTfXpG49VD8WGzJFpjBacbiM2hZGnfANVR7TBEd+f7D\nwE71rHridIZF+65XQXPYt7duiQf7pPgqDxkYR50CgYEAx/jQEKbBqJZz7RjKgKxN\n8pfA7iWn329xf8H+OK8HvUoQiapayhf02j1/Rnld/DkKpeWM/CTP2+v1IvHwaHed\ndFpyh3hvFUzXrSm3JwDxKY3FA02+pqtzFsOWNoOCtKrVXAT7F95lipsdSsdAcLyl\nLY032+6Y7LtomyywFx8RYtsCgYEAt6ha7e1/U8lPCN1jVptbVUM8I6axiABwfUvd\nY711kla8Mbt1sfbVFEAlJDgEn984ZkxXObjd7hXj3jg9Xcn4iCrgkobTJWjKzW8K\naGFgCaQ6mia4QsLJXrQMMUJtRYi/oRaKKbNLQTKuTtjKsmCYolblpYFpOBi+0Bkx\n8j6mgGcCgYB/L8aOQLG9m2vCKllp+61cFZ8VGQgruYLz4hviS5jdkQTxulMiZJhM\nUn7oAPuBF3qpR1YjbPpzgyEYB8+DckjIH1rmxPfKEWS/819VRGkep9fdoQ4YjcWW\nffHFXGG+rUUk0NovNTlaLgw0aoSW77UTQtV7YccMEqqWv5aELjNtrwKBgQCn/Vy/\nCWBQGXEroKV+0LgoM0nNKmp1BkHeuggVdXUXmDKoItozIJ4i2dGfYYYJXjrOh8G5\nULnfTzKRT0wCf/3PP7kPDjgQndvzMUCJ3Zfk+c2ItyYQGu/qqjIE1MfytHTkOiPC\npPeO+XarNG2j3+t9gpKoYskFwMy4uHMRK/FMvQKBgGvvEFs0gDc1TkrTL5AMn0JX\ndOwnlIpSQf52GxxtCS8POJb7bu6zkbQXIJKfV4zfGBK4ZhP8wC/BPxEyImgj3Yy2\nQ2xAiirZxiP8maVk6U+Sg0xyCk1ed9MFgZSoGZZ4sgeI3LEwKMN6gAQQVcuqGOno\nxFh40oGcSFoBG3vn9IgW\n-----END PRIVATE KEY-----\n",
+  "client_email": "aditya-service-account@restaurant-menu-app-197310.iam.gserviceaccount.com",
+  "client_id": "118140421292984551152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aditya-service-account%40restaurant-menu-app-197310.iam.gserviceaccount.com"
+}
